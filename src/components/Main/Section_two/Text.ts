@@ -1,0 +1,1 @@
+export const Text_long = 'Desde 2017 somos uma empresa apaixonada por tecnologia e educação dedicada a inovação e enraizada na cultura maker. Nossa missão é impulsionar a criatividade e promover soluções tecnológicas avançadas. Buscamos constantemente desafios, transformando ideias em realidade e contribuindo para uma educação mais significativa.'
